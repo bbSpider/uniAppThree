@@ -172,8 +172,6 @@ GLTFLoader：导入 glb 格式模型，若要导入其他格式模型，可尝�
 
 ```
 
-# 源码分享
-gitee 地址：[点击这里](https://gitee.com/bbspider/uni-app-three)
-csdn地址：[点击这里](https://download.csdn.net/download/qq_40558766/75218689)
+
 
 
